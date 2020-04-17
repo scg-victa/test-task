@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="com.luxoft.sudoku.SudokuValidatorApplication" -Dexec.args=%1
